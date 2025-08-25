@@ -1,1 +1,1 @@
-![header](/binaries/bgp.jpg)
+![header](/binaries/bgp.png)
