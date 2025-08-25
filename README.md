@@ -1,3 +1,3 @@
-<div style="text-align: center;">
+<p align="center">
   <img src="bgp.png" alt="header">
-</div>
+</p>
