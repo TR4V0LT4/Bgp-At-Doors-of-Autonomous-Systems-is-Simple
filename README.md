@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="bgp.png" alt="header">
+  <img src="/P1/bgp.png" alt="header">
 </p>
